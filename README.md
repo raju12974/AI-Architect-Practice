@@ -192,6 +192,59 @@ You will be able to:
 
 ---
 
+# ⚛️ Phase 5 — Quantum Computing Foundations (2028–2029)
+
+**Goal:** Build a conceptual and practical understanding of quantum computing principles, tools, and their connection to AI and cryptography.
+
+| Month        | Focus Area                   | Key Tasks                                                                                     | Output                                                   |
+| ------------ | ---------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Oct–Nov 2028 | 🧠 Quantum Basics            | Learn superposition, entanglement, quantum gates, and measurement.                            | Notes and visual diagrams explaining quantum logic gates |
+| Dec 2028     | 🛋️ Qiskit Hands-on          | Build your first quantum circuits using **IBM Qiskit**; run simple simulations.               | Run 2–3 example circuits and record results              |
+| Jan–Feb 2029 | ⚙️ Quantum Algorithms        | Learn and simulate algorithms like **Grover’s search** and **Shor’s algorithm** using Python. | Implement classical vs quantum performance comparison    |
+| Mar–Apr 2029 | 🔒 Post-Quantum Cryptography | Explore **CRYSTALS-Kyber**, **Dilithium**, and hybrid encryption approaches.                  | Secure API demo with PQC                                 |
+| May–Jun 2029 | 🧩 Quantum ML (QML)          | Learn about **Quantum Neural Networks (QNN)** and **Variational Circuits**.                   | Prototype a simple QNN model                             |
+| Jul 2029     | 🧬 Reflection Month          | Document learnings, summarize potential quantum applications in your systems.                 | “Quantum in Production Systems” report                   |
+
+**Resources:**
+
+* [IBM Qiskit Textbook](https://qiskit.org/textbook)
+* [Quantum Computing for Developers (Microsoft Learn)](https://learn.microsoft.com/en-us/quantum/)
+* Papers: *Grover’s Algorithm*, *Variational Quantum Eigensolver (VQE)*
+
+---
+
+# 🔗 Phase 6 — Blockchain + AI Convergence (2029–2030)
+
+**Goal:** Integrate blockchain as a verifiable trust and compute layer for decentralized AI systems.
+
+| Month             | Focus Area                         | Key Tasks                                                                         | Output                                             |
+| ----------------- | ---------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Aug–Sep 2029      | 📜 Blockchain Deep Dive            | Refresh concepts: consensus, smart contracts, distributed ledgers.                | Solidity smart contract samples                    |
+| Oct–Nov 2029      | 🔗 Data Provenance                 | Create a blockchain-backed data lineage tracker for AI datasets.                  | Mini project logging dataset history on blockchain |
+| Dec 2029–Jan 2030 | 🧠 Federated Learning + Blockchain | Build a prototype for distributed training verification using smart contracts.    | Demo of federated nodes verified on-chain          |
+| Feb–Mar 2030      | ⚙️ AI Governance                   | Explore blockchain-based model versioning and audit trails.                       | AI model registry built on Ethereum testnet        |
+| Apr–May 2030      | 🌐 Decentralized Compute           | Experiment with decentralized compute (e.g., Akash, Render, Filecoin).            | Report on performance & cost comparison            |
+| Jun 2030          | 🧬 Reflection Month                | Analyze lessons learned, create documentation for “AI + Blockchain Architecture.” | Whitepaper-style write-up                          |
+
+**Resources:**
+
+* [Ethereum Developer Docs](https://ethereum.org/en/developers/)
+* [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
+* [Federated Learning Frameworks](https://federated.withgoogle.com/)
+* [Akash Network Docs](https://akash.network/docs/)
+
+---
+
+# 🧩 Outcome After Phase 6 (2030+)
+
+You’ll be among a rare set of developers who can:
+
+* Architect **AI systems secured by blockchain** and **accelerated by quantum computing**.
+* Build **quantum-safe backend architectures**.
+* Contribute to **next-gen decentralized AI ecosystems**.
+
+---
+
 **Author:** [Raju Chilukuri](https://github.com/)  
 **License:** MIT  
 **Version:** 1.0 — Future-Readiness Roadmap (2025–2026)
